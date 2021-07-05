@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Bertani Padi</string>
+    <string name="action_settings">Settings</string>
+    <string name="tikus">Hama Tikus</string>
+    <string name="keong_mas">Hama Keong Mas</string>
+    <string name="wereng">Hama Wereng</string>
+    <string name="walang_sangit">Hama Walang Sangit</string>
+    <string name="burung">Hama Burung</string>
+    <string name="kresek">Penyakit Hawar Daun Bakteri</string>
+    <string name="tungro">Penyakit Tungro</string>
+    <string name="kerdil_rumput">Penyakit Kerdil Rumput</string>
+    <string name="kerdil_hampa">Penyakit Kerdil Hampa</string>
+    <string name="gejala_1">
+        "- Padi rusak sejak persemaian sampai penyimpanan.\n"
+        "\n- Tanaman banyak bekas potongan dan gigitan.\n"
+        "\n- Kerusakan tanaman banyak terlihat pada pagi hari."
+    </string>
+    <string name="gejala_2">
+        "- Batang, tangkai dan helai daun yang rusak\n"
+        "\n- Daun dan batang hilang dari pertanaman.\n"
+        "\n- Potongan daun dan batang banyak mengambang."
+    </string>
+    <string name="gejala_3">
+        "- Padi rusak saat fase matang susu sebelum panen.\n"
+        "\n- Patahnya malai padi dan bulir padi mengering\n"
+        "\n- Banyak biji padi hampa dan hilang."
+    </string>
+    <string name="gejala_4">
+        "- Terdapat binatang kecil di tempat lembab.\n"
+        "\n- Kematian malai (Bulir padi rusak dan hampa).\n"
+        "\n- Tanaman terkena virus penyakit kerdil."
+    </string>
+    <string name="gejala_5">
+        "- Kematian malai (Bulir padi rusak dan hampa).\n"
+        "\n- Padi rusak pada fase matang susu.\n"
+        "\n- Terdapat bekas tusukan berupa bercak putih."
+    </string>
+    <string name="gejala_6">
+        "- Tanaman layu pada saat fase vegetatif.\n"
+        "\n- Tepi daun berwarna hijau keabuan\n"
+        "\n- Terdapat daun yang mengering."
+    </string>
+    <string name="gejala_7">
+        "- Perubahan warna dari ujung ke pangkal daun.\n"
+        "\n- Warna berubah dari kuning hingga oranye\n"
+        "\n- Daun yang masih muda berbentuk melintir.\n"
+        "\n- Tanaman padi menjadi kerdil."
+    </string>
+    <string name="gejala_8">
+        "- Pertumbuhan terhambat dan banyak anakan\n"
+        "\n- Daun menjadi pendek dan sempit\n"
+        "\n- Daun berwarna hijau pucat atau kuning pucat.\n"
+        "\n- Daun terdapat bintik-bintik bercak coklat tua."
+    </string>
+    <string name="gejala_9">
+        "- Pertumbuhan terhambat dan banyak anakan\n"
+        "\n- Daun berwarna hijau gelap dan daun melintir\n"
+        "\n- Tepi daun tidak rata atau bergerigi\n"
+        "\n- Malai tidak keluar atau keluar sebagian"
+    </string>
+    <string name="deskripsi_tikus">
+        "Tikus sawah (Rattus argentiventer) merupakan hama padi utama di Indonesia, kerusakan yang ditimbulkan cukup luas dan hampir terjadi setiap musim. Tikus memiliki daya adaptasi tinggi, sehingga mudah tersebar di dataran rendah dan dataran tinggi. Mereka suka menggali liang untuk berlindung dan berkembang biak, membuat terowongan atau jalur sepanjang pematang dan tanggul irigasi."
+        "\nTikus sawah termasuk omnivora (pemakan segala jenis makanan). Apabila makanan berlimpah mereka cenderung memilih yang paling disukai, yaitu biji-bijian/padi yang tersedia di sawah. Tikus dapat menyerang seluruh fase pertumbuhan tanaman padi bahkan pada fase penyimpanan. Kerusakan terparah terjadi pada fase generatif, karena tanaman padi sudah tidak mampu lagi membentuk anakan baru. Pada umumnya tikus menyerang pada malam hari sedangkan pada siang hari tikus bersembunyi, pada periode bera sebagian besar tikus bermigrasi ke pemukiman dan kembali lagi menjelang fase generatif."
+    </string>
+    <string name="gejala_tikus">
+        "a. Padi mengalami kerusakan sejak dari persemaian hingga dalam penyimpanan."
+        "\nb. Tanaman yang terserang banyak bekas potongan dan terdapat bekas gigitan."
+        "\nc. Kerusakan tanaman banyak terlihat pada pagi hari."
+    </string>
+    <string name="pengendalian_tikus">
+        "a. Melakukan penanaman secara serentak agar masa perkembangbiakan tikus menjadi singkat."
+        "\nb. Mempersempit area pematang sawah dengan tinggi dan lebar kurang dari 30 cm."
+        "\nc. Membersihkan seluruh areal pertanaman padi agar tikus tidak dapat membuat sarang."
+        "\nd. Pemanfaatan musuh alami tikus."
+        "\ne. Pemasangan perangkap tikus pagar plastik pada persemaian dan lahan sawah."
+        "\nf. Gropyokan dan pembongkaran sarang tikus."
+        "\ng. Pengendalian kimiawi menggunakan rodentisida apabila populasi tikus sudah tinggi."
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
