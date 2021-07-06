@@ -83,8 +83,23 @@ class PenyakitActivity : AppCompatActivity() {
                         "b. Menghilangkan sumber infeksi dengan mencabut dan membenamkan tanaman yang sudah terinfeksi .\n" +
                         "c. Melakukan pergiliran tanaman (padi dengan palawijaya), pengaturan air irigasi, dan pemupukan berimbang.\n" +
                         "d. Pengendalian secara biologi dengan memanfaatkan musuh alami wereng coklat sperti laba-laba.\n" +
-                        "e. Menggunakan insekstisida secara selektif.\n",
+                        "e. Menggunakan insekstisida secara selektif.",
                 R.drawable.kerdil_hampa)
+        )
+
+        arrayList.add(
+            Penyakit("Blast",
+                "Penyakit blas disebabkan oleh jamur Pyricularia  grisea. Jamur P. grisea dapat menginfeksi pada semua fase pertumbuhan tanaman padi mulai dari persemaian sampai menjelang panen. Pada fase bibit dan pertumbuhan vegetatif tanaman padi,  P. grisea menginfeksi bagian daun, disebut blas daun (leaf blast). Pada fase pertumbuhan generatif tanaman padi, menginfeksi leher malai disebut blas leher (neck blast).  Perkembangan parah penyakit blas leher infeksinya dapat mencapai bagian gabah dan patogennya dapat terbawa gabah sebagai patogen tular benih (seed borne).",
+                "a. Daun ada bercak coklat berbentuk belah ketupat.\n" +
+                        "b. Tangkai malai yang busuk mudah patah.\n" +
+                        "c. Gabah terdapat bercak-bercak kecil yang bulat.",
+                "a. Menggunakan Varietas Padi Tahan Blas.\n" +
+                        "b. Penggunaan pupuk N sesuai dosis.\n" +
+                        "c. Lakukan sanitasi lahan secara berkala.\n" +
+                        "d. Penyemprotan fungisida sistemik minimum sekali pada awal berbunga.\n" +
+                        "e. Jarak tanam yang tidak terlalu rapat atau menggunakan sistem legowo.\n" +
+                        "f. Pemakaian jerami sebagai kompos.",
+                R.drawable.blast)
         )
 
         displayList.addAll(arrayList)
