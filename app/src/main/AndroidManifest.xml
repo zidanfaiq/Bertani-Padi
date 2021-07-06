@@ -10,10 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".konsultasi.Gejala1Activity"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
-        <activity
             android:name=".penyakit.DetailPenyakitActivity"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
