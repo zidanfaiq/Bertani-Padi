@@ -100,6 +100,21 @@ class HamaActivity : AppCompatActivity() {
             R.drawable.burung)
         )
 
+        arrayList.add(Hama("Penggerek Batang Padi",
+            "Hama Penggerek Batang Padi Putih (Scirpophaga innotata) merupakan ngengat yang menyerang tanaman padi pada semua fase pertumbuhan tanaman mulai dari persemaian hingga menjelang panen. Gejala yang ditemukan sebelum padi berbunga disebut sebagai sundep dan gejala serangan yang dilakukan setelah malai keluar dikenal sebagai beluk.\n" +
+                    "Ngengat dewasa penggerek batang aktif pada malam hari dan siklus hidup keseluruhan sekitar 40-70 hari. Telur biasanya diletakkan di bawah permukaan daun atau dekat ujung daun dengan ciri seperti gundukan kecil yang diselimuti bulu-bulu halus mengkilap yang berasal dari bulu belakang ngengat induk betina. Telur akan menetas setelah 6-7 hari. Larva kemudian bergerak ke bawah menuju pangkal dan mulai menggerek anakan utama, hingga setelah mulai dewasa beralih ke anakan lainnya. Larva awalnya menyerang akar hingga menyerang batang padi bagian dalam.",
+            "a. Padi menjadi kerdil atau mati\n" +
+                    "b. Pucuk batang padi kering kekuningan dan mudah dicabut.\n" +
+                    "c. Bulir padi menjadi hampa.",
+            "a. Pengaturan pola tanam (tanam serentak dan rotasi tanaman).\n" +
+                    "b. Pengumpulan kelompok telur penggerek batang padi di persemaian dan di pertanaman.\n" +
+                    "c. Penyabitan tanaman serendah mungkin sampai permukaan tanah pada saat panen.\n" +
+                    "d. Menangkap ngengat dengan light trap (untuk luas 50 ha cukup 1 light trap).\n" +
+                    "e. Penggenangan air setinggi 10 cm agar jerami atau pangkal jerami cepat membusuk sehingga larva atau pupa mati.\n" +
+                    "f. Pemanfaatan musuh alami parasitoid dengan melepas parasitoid telur seperti Trichogramma japonicum dengan dosis 20 pias/ha (1 pias = 2000-2500 telur terparasit).",
+            R.drawable.penggerek)
+        )
+
         displayList.addAll(arrayList)
 
         binding.rvDataHama.layoutManager = GridLayoutManager(this, 2)
