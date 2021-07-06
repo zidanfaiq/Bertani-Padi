@@ -52,13 +52,13 @@ class Gejala5Fragment : Fragment(), View.OnClickListener {
                 alertDiagnosa()
             }
             R.id.no -> {
-                val mGejala6Fragment = Gejala6Fragment()
+                val mGejala10Fragment = Gejala10Fragment()
                 val mFragmentManager = fragmentManager as FragmentManager
                 mFragmentManager
                     .beginTransaction()
                     .replace(
                         R.id.frame_container,
-                        mGejala6Fragment,
+                        mGejala10Fragment,
                         Gejala6Fragment::class.java.simpleName
                     )
                     .commit()

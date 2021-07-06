@@ -10,6 +10,8 @@
     <string name="tungro">Penyakit Tungro</string>
     <string name="kerdil_rumput">Penyakit Kerdil Rumput</string>
     <string name="kerdil_hampa">Penyakit Kerdil Hampa</string>
+    <string name="penggerek">Hama Penggerek Batang Padi</string>
+    <string name="blast">Penyakit Blast</string>
     <string name="gejala_1">
         "- Padi rusak sejak persemaian sampai penyimpanan.\n"
         "\n- Tanaman banyak bekas potongan dan gigitan.\n"
@@ -58,23 +60,15 @@
         "\n- Tepi daun tidak rata atau bergerigi\n"
         "\n- Malai tidak keluar atau keluar sebagian"
     </string>
-    <string name="deskripsi_tikus">
-        "Tikus sawah (Rattus argentiventer) merupakan hama padi utama di Indonesia, kerusakan yang ditimbulkan cukup luas dan hampir terjadi setiap musim. Tikus memiliki daya adaptasi tinggi, sehingga mudah tersebar di dataran rendah dan dataran tinggi. Mereka suka menggali liang untuk berlindung dan berkembang biak, membuat terowongan atau jalur sepanjang pematang dan tanggul irigasi."
-        "\nTikus sawah termasuk omnivora (pemakan segala jenis makanan). Apabila makanan berlimpah mereka cenderung memilih yang paling disukai, yaitu biji-bijian/padi yang tersedia di sawah. Tikus dapat menyerang seluruh fase pertumbuhan tanaman padi bahkan pada fase penyimpanan. Kerusakan terparah terjadi pada fase generatif, karena tanaman padi sudah tidak mampu lagi membentuk anakan baru. Pada umumnya tikus menyerang pada malam hari sedangkan pada siang hari tikus bersembunyi, pada periode bera sebagian besar tikus bermigrasi ke pemukiman dan kembali lagi menjelang fase generatif."
+    <string name="gejala_10">
+        "- Padi menjadi kerdil atau mati\n"
+        "\n- Pucuk batang padi kering kekuningan.\n"
+        "\n- Bulir padi menjadi hampa."
     </string>
-    <string name="gejala_tikus">
-        "a. Padi mengalami kerusakan sejak dari persemaian hingga dalam penyimpanan."
-        "\nb. Tanaman yang terserang banyak bekas potongan dan terdapat bekas gigitan."
-        "\nc. Kerusakan tanaman banyak terlihat pada pagi hari."
-    </string>
-    <string name="pengendalian_tikus">
-        "a. Melakukan penanaman secara serentak agar masa perkembangbiakan tikus menjadi singkat."
-        "\nb. Mempersempit area pematang sawah dengan tinggi dan lebar kurang dari 30 cm."
-        "\nc. Membersihkan seluruh areal pertanaman padi agar tikus tidak dapat membuat sarang."
-        "\nd. Pemanfaatan musuh alami tikus."
-        "\ne. Pemasangan perangkap tikus pagar plastik pada persemaian dan lahan sawah."
-        "\nf. Gropyokan dan pembongkaran sarang tikus."
-        "\ng. Pengendalian kimiawi menggunakan rodentisida apabila populasi tikus sudah tinggi."
+    <string name="gejala_11">
+        "- Daun ada bercak coklat berbentuk belah ketupat.\n"
+        "\n- Tangkai malai yang busuk mudah patah.\n"
+        "\n- Gabah terdapat bercak-bercak kecil yang bulat."
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

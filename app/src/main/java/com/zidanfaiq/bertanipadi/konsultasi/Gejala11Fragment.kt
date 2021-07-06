@@ -12,21 +12,21 @@ import android.view.Window
 import android.widget.ImageView
 import androidx.fragment.app.FragmentManager
 import com.zidanfaiq.bertanipadi.R
-import com.zidanfaiq.bertanipadi.databinding.FragmentGejala9Binding
+import com.zidanfaiq.bertanipadi.databinding.FragmentGejala11Binding
 import kotlinx.android.synthetic.main.alert_diagnosa.*
 
-class Gejala9Fragment : Fragment(), View.OnClickListener {
+class Gejala11Fragment : Fragment(), View.OnClickListener {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_gejala9, container, false)
+        return inflater.inflate(R.layout.fragment_gejala11, container, false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        val binding = FragmentGejala9Binding.bind(view)
+        val binding = FragmentGejala11Binding.bind(view)
 
         binding.yes.setOnClickListener(this)
         binding.no.setOnClickListener(this)
@@ -37,7 +37,7 @@ class Gejala9Fragment : Fragment(), View.OnClickListener {
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
         dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
         dialog.setContentView(R.layout.alert_diagnosa)
-        dialog.nama_hama.text = resources.getString(R.string.kerdil_hampa)
+        dialog.nama_hama.text = resources.getString(R.string.blast)
 
         val close = dialog.findViewById<ImageView>(R.id.close)
         close.setOnClickListener {
@@ -52,13 +52,13 @@ class Gejala9Fragment : Fragment(), View.OnClickListener {
                 alertDiagnosa()
             }
             R.id.no -> {
-                val mGejala11Fragment = Gejala11Fragment()
+                val mGejala1Fragment = Gejala1Fragment()
                 val mFragmentManager = fragmentManager as FragmentManager
                 mFragmentManager
                     .beginTransaction()
                     .replace(
                         R.id.frame_container,
-                        mGejala11Fragment,
+                        mGejala1Fragment,
                         Gejala1Fragment::class.java.simpleName
                     )
                     .commit()
