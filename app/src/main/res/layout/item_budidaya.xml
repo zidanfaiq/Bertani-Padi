@@ -1,66 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv_budidaya"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="10dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardCornerRadius="6dp">
 
-    <androidx.cardview.widget.CardView
-        android:id="@+id/cv_budidaya"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="20dp"
-        android:layout_marginBottom="10dp"
-        android:clickable="true"
-        android:focusable="true"
-        android:foreground="?android:attr/selectableItemBackground"
-        app:cardCornerRadius="6dp">
+        android:orientation="vertical">
 
-        <LinearLayout
+        <ImageView
+            android:id="@+id/gambar_budidaya"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bibit">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/title_budidaya"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="6dp"
+            android:text="Title"
+            android:textColor="#333333"
+            android:textAlignment="center"
+            android:textSize="14sp">
 
-            <ImageView
-                android:id="@+id/gambar_budidaya"
-                android:layout_width="match_parent"
-                android:layout_height="180dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/pemupukan">
+        </TextView>
 
-            </ImageView>
+        <TextView
+            android:id="@+id/deskripsi_budidaya"
+            android:layout_width="0dp"
+            android:layout_height="0dp">
 
-            <TextView
-                android:id="@+id/title_budidaya"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginEnd="15dp"
-                android:text="Title"
-                android:textColor="#333333"
-                android:textSize="16sp"
-                android:textStyle="bold">
+        </TextView>
 
-            </TextView>
+    </LinearLayout>
 
-            <TextView
-                android:id="@+id/deskkripsi_budidaya"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
-                android:layout_marginEnd="15dp"
-                android:layout_marginBottom="10dp"
-                android:ellipsize="end"
-                android:maxLines="2"
-                android:textColor="#333333"
-                android:text="Deskripsi">
-
-            </TextView>
-
-        </LinearLayout>
-
-    </androidx.cardview.widget.CardView>
-
-</LinearLayout>
+</androidx.cardview.widget.CardView>
