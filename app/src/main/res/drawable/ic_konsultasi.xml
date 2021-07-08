@@ -1,8 +1,8 @@
 <vector android:height="70dp" android:viewportHeight="512"
     android:viewportWidth="512" android:width="70dp" xmlns:android="http://schemas.android.com/apk/res/android">
-    <path android:fillColor="#FFF" android:pathData="m464,432a32.036,32.036 0,0 1,-32 -32v-16h64v16a32.036,32.036 0,0 1,-32 32z"/>
-    <path android:fillColor="#FFF" android:pathData="m496,144h-64l22.12,-64h19.76z"/>
-    <path android:fillColor="#FFF" android:pathData="m432,160h64v208h-64z"/>
-    <path android:fillColor="#FFF" android:pathData="m376,16h-64v-8a8,8 0,0 0,-8 -8h-176a8,8 0,0 0,-8 8v8h-64a40.045,40.045 0,0 0,-40 40v416a40.045,40.045 0,0 0,40 40h320a40.045,40.045 0,0 0,40 -40v-416a40.045,40.045 0,0 0,-40 -40zM400,472a24.027,24.027 0,0 1,-24 24h-320a24.027,24.027 0,0 1,-24 -24v-416a24.027,24.027 0,0 1,24 -24h64v16a32,32 0,0 0,32 32h128a32,32 0,0 0,32 -32v-16h64a24.027,24.027 0,0 1,24 24z"/>
-    <path android:fillColor="#FFF" android:pathData="m384,336v-288h-56a48.054,48.054 0,0 1,-48 48h-128a48.054,48.054 0,0 1,-48 -48h-56v352h0.55l-0.55,0.55 80,80 0.549,-0.549 255.451,0.549v-64.55h-96v-16h96v-16h-112v-16h112v-16h-48v-16zM70.078,400h57.922v57.922zM256,240v48h-64v-48h-48v-64h48v-48h64v48h48v64zM320,352h-16v-16h16z"/>
+    <path android:fillColor="#8CC323" android:pathData="m464,432a32.036,32.036 0,0 1,-32 -32v-16h64v16a32.036,32.036 0,0 1,-32 32z"/>
+    <path android:fillColor="#8CC323" android:pathData="m496,144h-64l22.12,-64h19.76z"/>
+    <path android:fillColor="#8CC323" android:pathData="m432,160h64v208h-64z"/>
+    <path android:fillColor="#8CC323" android:pathData="m376,16h-64v-8a8,8 0,0 0,-8 -8h-176a8,8 0,0 0,-8 8v8h-64a40.045,40.045 0,0 0,-40 40v416a40.045,40.045 0,0 0,40 40h320a40.045,40.045 0,0 0,40 -40v-416a40.045,40.045 0,0 0,-40 -40zM400,472a24.027,24.027 0,0 1,-24 24h-320a24.027,24.027 0,0 1,-24 -24v-416a24.027,24.027 0,0 1,24 -24h64v16a32,32 0,0 0,32 32h128a32,32 0,0 0,32 -32v-16h64a24.027,24.027 0,0 1,24 24z"/>
+    <path android:fillColor="#8CC323" android:pathData="m384,336v-288h-56a48.054,48.054 0,0 1,-48 48h-128a48.054,48.054 0,0 1,-48 -48h-56v352h0.55l-0.55,0.55 80,80 0.549,-0.549 255.451,0.549v-64.55h-96v-16h96v-16h-112v-16h112v-16h-48v-16zM70.078,400h57.922v57.922zM256,240v48h-64v-48h-48v-64h48v-48h64v48h48v64zM320,352h-16v-16h16z"/>
 </vector>

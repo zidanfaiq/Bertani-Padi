@@ -5,30 +5,50 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#08A04B"
+    android:background="#8CC323"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="30dp"
-        android:layout_marginTop="60dp"
-        android:text="Dashboard"
-        android:textColor="#FFF"
-        android:textSize="24sp"
-        android:textStyle="bold">
-    </TextView>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="30dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="60dp"
-        android:text="Selamat datang di aplikasi Bertani Padi!"
-        android:textColor="#FFF"
-        android:textSize="16sp">
-    </TextView>
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="50dp"
+            android:src="@drawable/logo">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/dashboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="66dp"
+            android:layout_toEndOf="@id/logo"
+            android:text="Dashboard"
+            android:textColor="#FFF"
+            android:textSize="20sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_toEndOf="@id/logo"
+            android:text="Aplikasi Bertani Padi"
+            android:textColor="#FFF"
+            android:textSize="16sp"
+            android:layout_below="@id/dashboard">
+        </TextView>
+
+    </RelativeLayout>
 
     <ScrollView
         android:layout_width="match_parent"
@@ -43,16 +63,17 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingTop="50dp"
-                android:paddingBottom="30dp"
+                android:paddingTop="40dp"
+                android:paddingBottom="20dp"
                 android:gravity="center">
 
                 <androidx.cardview.widget.CardView
                     android:id="@+id/budidaya"
-                    android:layout_width="140dp"
+                    android:layout_width="130dp"
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="20dp"
-                    android:backgroundTint="#08A04B"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
@@ -78,7 +99,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginBottom="15dp"
                             android:text="Budidaya"
-                            android:textColor="#FFF"
+                            android:textColor="#333333"
                             android:textSize="15sp">
                         </TextView>
 
@@ -88,11 +109,12 @@
 
                 <androidx.cardview.widget.CardView
                     android:id="@+id/penyakit"
-                    android:layout_width="140dp"
+                    android:layout_width="130dp"
                     android:layout_height="wrap_content"
                     android:layout_toEndOf="@+id/budidaya"
                     android:layout_marginStart="20dp"
-                    android:backgroundTint="#08A04B"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
@@ -118,7 +140,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginBottom="15dp"
                             android:text="Penyakit"
-                            android:textColor="#FFF"
+                            android:textColor="#333333"
                             android:textSize="15sp">
                         </TextView>
 
@@ -136,13 +158,14 @@
 
                 <androidx.cardview.widget.CardView
                     android:id="@+id/hama"
-                    android:layout_width="140dp"
+                    android:layout_width="130dp"
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="20dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
-                    android:backgroundTint="#08A04B"
                     app:cardCornerRadius="16dp">
 
                     <LinearLayout
@@ -164,7 +187,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginBottom="15dp"
-                            android:textColor="#FFF"
+                            android:textColor="#333333"
                             android:text="Hama"
                             android:textSize="15sp">
                         </TextView>
@@ -175,14 +198,15 @@
 
                 <androidx.cardview.widget.CardView
                     android:id="@+id/konsultasi"
-                    android:layout_width="140dp"
+                    android:layout_width="130dp"
                     android:layout_height="wrap_content"
                     android:layout_toEndOf="@+id/hama"
                     android:layout_marginStart="20dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
-                    android:backgroundTint="#08A04B"
                     app:cardCornerRadius="16dp">
 
                     <LinearLayout
@@ -204,7 +228,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginBottom="15dp"
-                            android:textColor="#FFF"
+                            android:textColor="#333333"
                             android:text="Konsultasi"
                             android:textSize="15sp">
                         </TextView>
