@@ -12,6 +12,7 @@
     <string name="kerdil_hampa">Penyakit Kerdil Hampa</string>
     <string name="penggerek">Hama Penggerek Batang Padi</string>
     <string name="blast">Penyakit Blast</string>
+
     <string name="gejala_1">
         "- Padi rusak sejak persemaian sampai penyimpanan.\n"
         "\n- Tanaman banyak bekas potongan dan gigitan.\n"
@@ -70,6 +71,305 @@
         "\n- Tangkai malai yang busuk mudah patah.\n"
         "\n- Gabah terdapat bercak-bercak kecil yang bulat."
     </string>
+
+    <string-array name="title_budidaya">
+        <item>Pemilihan Bibit</item>
+        <item>Persemaian</item>
+        <item>Pengolahan Lahan</item>
+        <item>Penanaman</item>
+        <item>Pemupukan</item>
+        <item>Perawatan dan Pemeliharaan</item>
+        <item>Pemanenan</item>
+    </string-array>
+
+    <string-array name="deskripsi_budidaya">
+        <item>
+            "Benih padi yang berkualitas merupakan hal yang penting jika kita ingin meningkatkan hasil budidaya padi. Saat ini di pasaran terdapat banyak varietas benih padi yang dapat Anda cocokkan dengan kondisi lahan serta permintaan pasar. Beberapa ciri dari beras varietas unggulan adalah Tahan terhadap serangan hama dan penyakit, Toleran terhadap kondisi lingkungan, Dapat mengasilkan panen yang berlimpah, dan Saat direndam dengan larutan ZA 20 gr, benih tenggelam alias tidak mengapung."
+        </item>
+        <item>
+            "Benih padi yang sudah siap dapat segera di semai, langkah-langkahnya adalah sebagai berikut :\n"
+            "\na. Buatlah bedengan dengan ukuran lebar 1 – 2 m. Luas persemaian untuk lahan 1 hektar adalah sekitar 400 m atau 4% dari luas lahan.\n"
+            "\nb. Tambahkan 2 kg bahan organik semisal kompos, pupuk kandang, sekam, atau abu. Jika Anda berminat untuk mengolah kompos dari bahan sisa pertanian, silahkan pelajaricara membuat pupuk kompos dari jerami padi.\n"
+            "\nc. Benih yang hendak disemai haruslah direndam dahulu sekitar 2 x 24 jam.\n"
+            "\nd. Persemaian dilakukan selama 25 hari sebelum masa tanam, usahakan tempat menyemai benih padi berdekatan dengan lokasi tanam agar pemindahan benih tersebut dilakukan dengan cepat dan benih tetap segar.\n"
+            "\ne. Benih yang disemai tidak harus terbenam seluruhnya, karena justeru akan menyebabkan kecambah terinfeksi patogen dan akhirnya membusuk."
+        </item>
+        <item>
+            "Pengolahan lahan bertujuan untuk mengubah sifat fisik tanah agar lapisan yang semula keras menjadi datar dan melumpur. Dengan begitu gulma akan mati dan membusuk menjadi humus, aerasi tanah menjadi lebih baik, lapisan bawah tanah menjadi jenuh air sehingga dapat menghemat air. Pada pengolahan tanah sawah ini, dilakukan juga perbaikan dan pengaturan pematang sawah serta selokan. Pematang (galengan) sawah diupayakan agar tetap baik untuk mempermudah pengaturan irigasi sehingga tidak boros air dan mempermudah perawatan tanaman. Tahapan pengolahan tanah sawah pada prinsipnya mencakup kegiatan-kegiatan sebagai berikut :\n"
+            "\na. Pembersihan"
+            "\nPematang sawah dibersihkan dari rerumputan, diperbaiki, dan dibuat agak tinggi. Fungsi utama pematang disaat awal untuk menahan air selama pengolahan tanah agar tidak mengalir keluar petakan. Fungsi selanjutnya berkaitan erat dengan pengaturan kebutuhan air selama ada tanaman padi.Saluran atau parit diperbaiki dan dibersihkan dari rerumputan. Kegiatan tersebut bertujuan agar dapat memperlancar arus air serta menekan jumlah biji gulma yang terbawa masuk ke dalam petakan. Sisa jerami dan sisa tanaman pada bidang olah dibersihkan sebelum tanah diolah. Jerami tersebut dapat dibakar atau diangkut ke tempat lain untuk pakan ternak, kompos, atau bahan bakar. Pembersihan sisasisa tanaman dapat dikerjakan dengan tangan dan cangkul\n"
+            "\nb. Pencangkulan"
+            "\nSetelah dilakukan perbaikan pematang dan saluran, tahap berikutnya adalah pencangkulan. Sudutsudut petakan dicangkul untuk memperlancar pekerjaan bajak atau traktor. Pekerjaan tersebut dilaksanakan bersamaan dengan saat pengolahan tanah.\n"
+            "\nc. Pembajakan"
+            "\nPembajakan dan penggaruan merupakan kegiatan yang berkaitan. Kedua kegiatan tersebut bertujuan agar tanah sawah melumpur dan siap ditanami padi. Pengolahan tanah dilakukan dengan menggunakan mesin traktor. Sebelum dibajak, tanah sawah digenangi air agar gembur. Lama penggenangan sawah dipengaruhi oleh kondisi tanah dan persiapan tanam."
+            "\nPembajakan biasanya dilakukan dua kali. Dengan pembajakan ini diharapkan gumpalan-gumpalan tanah terpecah menjadi kecil-kecil. Gumpalan tanah tersebut kemudian dihancurkan dengan garu sehingga menjadi lumpur halus yang rata. Keuntungan tanah yang telah diolah tersebut yaitu air irigasi dapat merata. Pada petakan sawah yang lebar, perlu dibuatkan bedengan-bedengan. Antara bedengan satu dengan bedeng lainnya berupa saluran kecil. Ujung saluran bertemu dengan parit kecil di tepi pematang yang berguna untuk memperlancar air irigasi."
+        </item>
+        <item>
+            "Setelah persiapan lahan beres maka bibit pun siap ditanam. Bibit dianjurkan untuk ditanam semuda mungkin, biasanya dipindah saat umur 20 hari. Ciri bibit yang siap dipindah ialah berdaun 5-6 helai, tinggi 22-25 cm, batang bawah besar dan keras, bebas dari hama dan penyakit sehingga pertumbuhannya seragam. Bibit ditanam dengan cara dipindah dari bedengan persemaian ke petakan sawah, dengan cara bibit dicabut dari bedengan persemaian dengan menjaga agar bagian akarnya terbawa semua dan tidak rusak. Setelah itu bibit dikumpulkan dalam ikatan-ikatan lalu ditaruh disawah dengan sebagian akar terbenam ke air.\n"
+            "\nBibit ditanam cukup satu bibit per lubang tanam, dengan posisi tegak dan apabila petani masih belum terbiasa dengan menanam satu bibit, pada tahap awal dapat menanam 2-3 bibit per lubang tanam, dengan kedalaman tanam cukup 2 cm, karena jika kurang dari 2 cm bibit akan gampang hanyut. Pengaturan jarak tanam dilakukan dengan caplak, Jarak tanam padi model tegel biasanya 20 cm x 20 cm atau 25 cm x 25 cm. Model sistem tanam jajar legowo juga sudah banyak diterapkan yaitu legowo 2 : 1 (40 x 20 x 10 cm) adalah cara tanam berselang seling 2 baris dan 1 bari kosong. Jarak antar baris tanaman yang dikosongkan di sebut satu unit."
+        </item>
+        <item>
+            "Tanah yang dibudidayakan secara terus menerus cenderung kekurangan unsur hara bagi tanaman, oleh karena itu diperlukan penambahan unsur hara yang berasal dari pupuk organik maupun pupuk anorganik. Agar efektif dan efisien penggunaan pupuk disesuaikan dengan kebutuhan tanaman dan ketersediaan hara dalam tanah. Kebutuhan N tanaman dapat diketahui dengan cara mengukur tingkat kehijauan warna daun padi dengan menggunakan Bagan Warna Daun (BWD).\n"
+            "\nCara menentukan waktu aplikasi pupuk N dengan menggunakan BWD dapat dilakukan dengan 2 cara sebagai berikut :\n"
+            "\nCara pertama adalah waktu tetap, yaitu waktu pemupukan di tetapkan lebih dahulu berdasarkan tahap pertumbuhan tanaman, antara lain fase pada saat anakan akif dan pembentukan malai dan saat primordia.\n"
+            "\nCara kedua adalah waktu pemberian pupuk berdasarkan nilai pembacaan BWD yang sebenarnya yaitu penggunaan BWD dimulai ketika tanaman 14 HST, kemudian secara periodik diulangi 7-10 hari sekali sampai diketahui nilai kritis saat pupuk N harus diaplikasikan."
+        </item>
+        <item>
+            "Perawatan dan pemeliharaan tanaman sangat penting dalam pelaksanaan budidaya padi sawah. Hal-hal yang sering dilakukan oleh para petani adalah penyiangan (pengendalian gulma). Gulma merupakan tumbuhan pengganggu yang hidup bersama tanaman yang dibudidayakan dan pada umumnya sangat merugikan tanaman padi. Disamping dapat menjadi tanaman inang beberapa hama dan penyebab penyakit, gulma merupakan pesaing untuk unsur hara air, tempat dan sinar matahari. Apalagi gulma memiliki sistem perakaran yang sama dengan padi sehingga unsur makanan yang diperlukan oleh gulma dan padi berasal dari lapisan tanah yang sama. Penyiangan gulma dilakukan 2 tahap, dimana tahap pertama penyiangan dilakukan pada saat umur tanaman kurang lebih 15 hari dan tahap kedua pada saat umur tanaman berumur 30-35 hari. Penyiangan yang dilakukan dengan cara mencabut gulma dan dimatikan dengan atau tanpa menggunakan alat, biasanya penyiangan ini dilakukan bersamaan dengan kegiatan penyulaman."
+        </item>
+        <item>
+            "Tujuan pemanenan padi adalah untuk mendapatkan gabah dari lapangan pada tingkat kematangan optimal, mencegah kerusakan dan kehilangan hasil seminimal mungkin. Pemanenan padi tidak akan menguntungkan dan memuaskan jika prosesnya dilakukan dengan cara yang kurang benar dan pada umur panen yang tidak tepat. Cara panen yang tidak baik akan menurunkan kehilangan hasil secara kuantitatif, sedang saat panen yang tepat akan menentukan kualitas gabah dan beras. Panen harus dilakukan bila bulir padi sudah cukup dianggap masak. Panen yang kurang tepat dapat menurunkan kualitas dari gabah maupun beras.\n"
+            "\na. Ciri-ciri Padi Siap Panen"
+            "\n- Daun bendera telah mengering dan 95% gabah sudah menguning."
+            "\n- Umur optimal malai 30 sampai 35 hari terhitung sejak hari sesudah berbunga (HSB). Tergantung varietas yang dibudidayakan."
+            "\n- Kadar air gabah berkisar antara 21 sampai 26."
+            "\n- Kerontokan gabah sekitar 16 sampai 30 % (Cara mengukurnya dengan meremas malai dengan tangan).\n"
+            "\nb. Cara Panen Padi"
+            "\nDalam melakukan pemanenan padi dapat dilakukan dengan berbagai cara, tergantung dari alat yang digunakan, varietas padi dan cara merontokkan gabah yang akan dilakukan. Berikut ini beberapa cara dalam memanen padi :"
+            "\n- Ani-ani umumnya digunakan petani untuk memanen padi lokal yang tahan rontok dan tanaman padi berpostur tinggi dengan cara memotong pada tangkainya."
+            "\n- Cara panen padi varietas unggul baru dengan sabit dapat dilakukan dengan cara potong atas, potong tengah atau potong bawah tergantung cara perontokannya."
+            "\n- Cara panen dengan potong bawah, umumnya dilakukan bila perontokannya dengan cara dibanting/digebot atau menggunakan pedal thresher."
+            "\n- Panen padi dengan cara potong atas atau potong tengah bila dilakukan perontokannya menggunakan mesin perontok."
+        </item>
+    </string-array>
+
+    <array name="image_budidaya">
+        <item>@drawable/bibit</item>
+        <item>@drawable/persemaian</item>
+        <item>@drawable/bajak</item>
+        <item>@drawable/nanam</item>
+        <item>@drawable/pemupukan</item>
+        <item>@drawable/penyiangan</item>
+        <item>@drawable/panen</item>
+    </array>
+
+    <string-array name="title_penyakit">
+        <item>Hawar Daun Bakteri</item>
+        <item>Tungro</item>
+        <item>Kerdil Rumput</item>
+        <item>Kerdil Hampa</item>
+        <item>Blast</item>
+    </string-array>
+
+    <string-array name="deskripsi_penyakit">
+        <item>
+            "Penyakit hawar daun bakteri atau kresek disebabkan oleh bakteri Xanthomonas oryzae pv. oryzae (Xoo). Serangan yang terjadi pada awal pertumbuhan menyebabkan tanaman menjadi layu dan mati. Serangan oleh bakteri ini dapat terjadi pada fase vegetatif dan generatif yang mengakibatkan kerusakan tanaman serta menurunkan hasil produksi tanaman padi."
+            "\nPenyakit ini termasuk dalam kategori penyakit yang terbawa oleh benih (seed borne diseases). Penyakit akan berkembang dari benih padi yang terinfeksi oleh patogen. Faktor lain yang mempengaruhi perkembangan penyakit hawar daun bakteri adalah penggunaan varietas rentan penyakit hawar daun bakteri, pemupukan tidak berimbang, dan kondisi cuaca (kelembaban tinggi, suhu rendah, curah hujan tinggi dan angin kencang)."
+        </item>
+        <item>
+            "Penyakit tungro disebabkan oleh dua jenis virus yang berbeda yaitu virus bentuk batang Rice Tungro Bacilliform Virus (RTBV) dan virus bentuk bulat Rice Tungro Spherical Virus (RTSV). Kedua jenis virus tersebut dapat menginfeksi tanaman secara bersama-sama. Virus tungro hanya ditularkan oleh wereng hijau atau wereng lainnya. Penularan virus tungro dapat terjadi apabila wereng memperoleh virus setelah mengisap tanaman yang terinfeksi virus kemudian berpindah dan mengisap tanaman sehat."
+        </item>
+        <item>
+            "Penyakit kerdil hampa disebabkan oleh Rice Grassy Stunt Virus (RGSV). Virus tersebut disebarkan oleh hama wereng coklat. Penularan virus tungro dapat terjadi apabila wereng memperoleh virus setelah mengisap tanaman yang terinfeksi virus kemudian membawa virus untuk waktu yang lama dan menginfeksi tanaman baru secara terus-menerus dan merambat. Namun, wereng perlu memakan tanaman yang terinfeksi selama setidaknya 30 menit untuk mengambil virus. Virus ini dapat menginfeksi tanaman bersama-sama dengan virus kerdil hampa padi, dan menyebabkan kerugian yang besar."
+        </item>
+        <item>
+            "Penyakit kerdil hampa disebabkan oleh Rice Ragged Stunt Virus (RRSV). Virus tersebut disebarkan oleh hama wereng coklat. Penularan virus ini dapat terjadi apabila wereng memperoleh virus setelah mengisap tanaman yang terinfeksi virus kemudian berpindah dan menghisap tanaman sehat."
+            "\nTanaman akan menghasilkan sedikit atau sama sekali tidak menghasilkan bulir pada keseluruhan tergantung dari seberapa banyak kerusakan yang ada pada tanaman."
+        </item>
+        <item>
+            "Penyakit blas disebabkan oleh jamur Pyricularia  grisea. Jamur P. grisea dapat menginfeksi pada semua fase pertumbuhan tanaman padi mulai dari persemaian sampai menjelang panen. Pada fase bibit dan pertumbuhan vegetatif tanaman padi,  P. grisea menginfeksi bagian daun, disebut blas daun (leaf blast). Pada fase pertumbuhan generatif tanaman padi, menginfeksi leher malai disebut blas leher (neck blast).  Perkembangan parah penyakit blas leher infeksinya dapat mencapai bagian gabah dan patogennya dapat terbawa gabah sebagai patogen tular benih (seed borne)."
+        </item>
+    </string-array>
+
+    <string-array name="gejala_penyakit">
+        <item>
+            "a. Tanaman layu pada saat fase vegetatif."
+            "\nb. Tepi daun berwarna hijau keabuaan"
+            "\nc. Terdapat daun yang mengering."
+        </item>
+        <item>
+            "a. Perubahan warna dari kuning hingga oranye dan terdapat bercak coklat."
+            "\nb. Daun yang masih muda berbentuk melintir."
+            "\nc. Perubahan warna dari ujung ke pangkal daun."
+            "\nd. Tanaman padi menjadi kerdil."
+        </item>
+        <item>
+            "Penghambatan pertumbuhan, anakannya banyak, daunnya menjadi pendek dan sempit, dan tumbuhnya tegak serta berwarna hijau pucat atau kuning pucat. Seringkali pada daunnya terdapat bintik-bintik atau bercak coklat tua. Daunnya kadang-kadang tetap hijau jika diberi pupuk nitrogen yang cukup."
+        </item>
+        <item>
+            "Pertumbuhan terhambat (kerdil), daun berwarna hijau gelap, tepi daun tidak rata, berlekuk-lekuk atau sobek-sobek, terjadi pembengkakan tulang daun atau membentuk puru. Pada stadia bibit akan berkembang daun baru dengan gejala yang jelas seperti daun melintir, dan tepi daun bergerigi pada 2 minggu setelah inokulasi. Pada stadia berbunga, daun atas dan daun bendera menunjukkan gejala melintir, malai tidak keluar atau keluar sebagian, dan dari malai yang sebagian keluar, gabah biasanya hampa."
+        </item>
+        <item>
+            "a. Daun ada bercak coklat berbentuk belah ketupat."
+            "\nb. Tangkai malai yang busuk mudah patah."
+            "\nc. Gabah terdapat bercak-bercak kecil yang bulat."
+        </item>
+    </string-array>
+
+    <string-array name="pengendalian_penyakit">
+        <item>
+            "a. Penanaman Benih dan bibit sehat"
+            "\nb. Penanaman menggunakan system Legowo dan system pengairan secara berselang (intermitten irrigation)."
+            "\nc. Tidak menggunakan pupuk urea terlau tinggi dan menggunakan pupuk N dan K secara berimbang."
+            "\nd. Sanitasi lingkungan sawah dengan menjaga kebersihan sawah dari gulma."
+            "\ne. Pengendalian dengan menggunakan dengan varietas tahan penyakit HDB."
+        </item>
+        <item>
+            "a. Menanam padi serempak pada lahan luas minimal 25 hektar."
+            "\nb. Mengatur waktu tanam padi dengan sebaik-baiknya agar tanaman padi tidak rentan terhadap penyakit tungro."
+            "\nc. Memilih varietas tanaman padi yang berkualitas bagus, sehingga tidak mudah terserang wereng hijau dan virus tungro."
+            "\nd. Sanitasi lingkungan atau pembersihan lahan sebelum tanam dari sisa tanaman dan gulma."
+            "\ne. Melakukan pemupukan berimbang sesuai dosis."
+            "\nf. Menggunakan bahan insektisida pada fase sebelum semai dengan dosis yang masih aman."
+        </item>
+        <item>
+            "a. Melebarkan jarak tanam untuk memungkinkan sinar matahari mencapai pangkal tanaman."
+            "\nb. Melakukan rotasi tanaman dan penanaman secara serempak."
+            "\nc. Penggunaan varietas yang lebih tahan terhadap serangan."
+            "\nd. Penggunaan pupuk secara berimbang."
+            "\ne. Menghilangkan sumber infeksi dengan mencabut dan membenamkan tanaman yang sudah terinfeksi ."
+            "\nf. Pemanfaatan musuh alami wereng coklat"
+            "\ng. Menggunakan insekstisida secara selektif."
+        </item>
+        <item>
+            "a. Penanaman menggunakan varietas unggul tahan wereng coklat"
+            "\nb. Menghilangkan sumber infeksi dengan mencabut dan membenamkan tanaman yang sudah terinfeksi."
+            "\nc. Melakukan pergiliran tanaman (padi dengan palawijaya), pengaturan air irigasi, dan pemupukan berimbang."
+            "\nd. Pengendalian secara biologi dengan memanfaatkan musuh alami wereng coklat sperti laba-laba."
+            "\ne. Menggunakan insekstisida secara selektif."
+        </item>
+        <item>
+            "a. Menggunakan Varietas Padi Tahan Blas."
+            "\nb. Penggunaan pupuk N sesuai dosis."
+            "\nc. Lakukan sanitasi lahan secara berkala."
+            "\nd. Penyemprotan fungisida sistemik minimum sekali pada awal berbunga."
+            "\ne. Jarak tanam yang tidak terlalu rapat atau menggunakan sistem legowo."
+            "\nf. Pemakaian jerami sebagai kompos."
+        </item>
+    </string-array>
+
+    <array name="image_penyakit">
+        <item>@drawable/kresek</item>
+        <item>@drawable/tungro</item>
+        <item>@drawable/kerdil_rumput</item>
+        <item>@drawable/kerdil_hampa</item>
+        <item>@drawable/blast</item>
+    </array>
+
+    <string-array name="title_hama">
+        <item>Tikus</item>
+        <item>Wereng</item>
+        <item>Keong Mas</item>
+        <item>Walang Sangit</item>
+        <item>Burung</item>
+        <item>Penggerek Batang Padi</item>
+    </string-array>
+
+    <string-array name="deskripsi_hama">
+        <item>
+            "Tikus sawah (Rattus argentiventer) merupakan hama padi utama di Indonesia, kerusakan yang ditimbulkan cukup luas dan hampir terjadi setiap musim. Tikus memiliki daya adaptasi tinggi, sehingga mudah tersebar di dataran rendah dan dataran tinggi. Mereka suka menggali liang untuk berlindung dan berkembang biak, membuat terowongan atau jalur sepanjang pematang dan tanggul irigasi."
+            "\nTikus sawah termasuk omnivora (pemakan segala jenis makanan). Apabila makanan berlimpah mereka cenderung memilih yang paling disukai, yaitu biji-bijian/padi yang tersedia di sawah. Tikus dapat menyerang seluruh fase pertumbuhan tanaman padi bahkan pada fase penyimpanan. Kerusakan terparah terjadi pada fase generatif, karena tanaman padi sudah tidak mampu lagi membentuk anakan baru. Pada umumnya tikus menyerang pada malam hari sedangkan pada siang hari tikus bersembunyi, pada periode bera sebagian besar tikus bermigrasi ke pemukiman dan kembali lagi menjelang fase generatif."
+        </item>
+        <item>
+            "Wereng coklat (Nilaparvata lugens Stal.) merupakan hama dari golongan insekta yang sangat merugikan usaha tani padi. Serangan wereng coklat yang sangat berarti mengurangi hasil padi secara substansial, mengakibatkan kerugian di tingkat petani. Wereng menyerang pada smua stadia pertumbuhan padi dengan cara menghisap cairan tanaman. Populasi tinggi wereng coklat dapat menyebabkan daun berubah kuning oranye sebelum menjadi coklat dan mati. Kondisi ini disebut hopperburn, membunuh tanaman Wereng coklat juga dapat menularkan penyakit kerdil hampa dan kerdil rumput yang sampai saat ini tidak bisa diobati."
+        </item>
+        <item>
+            "Keong mas dapat menyebabkan kerusakan tanaman berkisar 10 – 40%. Keong mas bersifat herbivor yang pemakan segala dan sangat rakus, tanaman yang disukai tanaman yang masih muda dan lunak seperti bibit padi. Apabila habitatnya dalam keadaan kekurangan air maka keong mas akan membenamkan diri pada lumpur yang dalam, hal ini dapat bertahan selama 6 bulan. Bila habitatnya sudah ada airnya maka keong mas akan muncul kembali pada saat pengolahan lahan. Keong mas siap melakukan kopulasi pada saat kondisi air terpenuhi pada areal persawahan. Serangan keong mas pada tanaman padi biasanya pada masa vegetatif dari masa pembibitan. Keong mas ini merusak tanaman padi dengan mengikis (memarut) jaringan tanaman lalu memakannya."
+        </item>
+        <item>
+            "Walang sangit (L. oratorius L) merupakan salah satu hama yang menyerang tanaman padi sawah. Tanaman padi yang terserang walang sangit biasanya ditanam di sawah dekat hutan dan serangan walang sangit juga dapat terjadi pada tanaman padi yang terlambat tanam. Walang sangit mengisap isi biji padi pada bulir matang susu (milk), bulir yang lunak (soft dough), dan bulir yang keras (hard dough). Aktifitas paling banyak walang sangit mengisap bulir padi pada saat pagi dan sore hari."
+            "\nHama walang sangit ini pada tanaman padi dapat menyebabkan kehilangan hasil hingga mencapai 50%. Kualitas gabah (beras) yang terserang oleh walang sangit akan berkurang. Diantaranya menyebabkan meningkatnya Grain dis-coloration perubahan warna pada gabah ataupun beras yang dihasilkan. Serangan walang sangit dapat menurunkan produksi dan menurunkan kualitas gabah."
+        </item>
+        <item>
+            "Burung pipit adalah jenis hama dari kelas unggas (aves) pemakan biji-bijian yang menyerang malai pada tanaman padi untuk memakan biji atau bulir padi yang dapat menyebabkan petani mengalami kehilangan 30% sampai 50% hasil produksi. Burung menimbulkan kerusakan parah apabila terjadi perbedaan waktu tanam yang signifikan (lebih dari 3 minggu) daripada hamparan sawah disekitarnya. Burung akan menyerang tanaman yang sudah berumur 70 sampai 80 hari, saat bulir-bulir padi terisi."
+        </item>
+        <item>
+            "Hama Penggerek Batang Padi Putih (Scirpophaga innotata) merupakan ngengat yang menyerang tanaman padi pada semua fase pertumbuhan tanaman mulai dari persemaian hingga menjelang panen. Gejala yang ditemukan sebelum padi berbunga disebut sebagai sundep dan gejala serangan yang dilakukan setelah malai keluar dikenal sebagai beluk."
+            "\nNgengat dewasa penggerek batang aktif pada malam hari dan siklus hidup keseluruhan sekitar 40-70 hari. Telur biasanya diletakkan di bawah permukaan daun atau dekat ujung daun dengan ciri seperti gundukan kecil yang diselimuti bulu-bulu halus mengkilap yang berasal dari bulu belakang ngengat induk betina. Telur akan menetas setelah 6-7 hari. Larva kemudian bergerak ke bawah menuju pangkal dan mulai menggerek anakan utama, hingga setelah mulai dewasa beralih ke anakan lainnya. Larva awalnya menyerang akar hingga menyerang batang padi bagian dalam."
+        </item>
+    </string-array>
+
+    <string-array name="gejala_hama">
+        <item>
+            "a. Padi mengalami kerusakan sejak dari persemaian hingga dalam penyimpanan."
+            "\nb. Tanaman yang terserang banyak bekas potongan dan terdapat bekas gigitan."
+            "\nc. Kerusakan tanaman banyak terlihat pada pagi hari."
+        </item>
+        <item>
+            "a. Banyak binatang kecil di tempat lembab, gelap dan teduh."
+            "\nb. Banyak malai dan bulir padi yang hampa."
+            "\nc. Tanaman terkena virus penyakit kerdil."
+        </item>
+        <item>
+            "a. Daun dan batang hilang dari pertanaman."
+            "\nb. Batang, tangkai dan helai daun yang rusak."
+            "\nc. Potongan daun dan batang banyak mengambang."
+        </item>
+        <item>
+            "a. Kematian malai (Bulir padi rusak dan hampa)."
+            "\nb. Padi rusak pada fase matang susu."
+            "\nc. Terdapat bekas tusukan berupa bercak putih."
+        </item>
+        <item>
+            "a. Padi banyak terserang saat fase mata susu sampai padi panen."
+            "\nb. Patahnya malai padi dan bulir padi mengering."
+            "\nc. Banyak biji hampa dan hilang karena rontok."
+        </item>
+        <item>
+            "a. Padi menjadi kerdil atau mati"
+            "\nb. Pucuk batang padi kering kekuningan dan mudah dicabut."
+            "\nc. Bulir padi menjadi hampa."
+        </item>
+    </string-array>
+
+    <string-array name="pengendalian_hama">
+        <item>
+            "a. Melakukan penanaman secara serentak supaya masa perkembangbiakan tikus menjadi singkat."
+            "\nb. Mempersempit area pematang sawah dengan tinggi dan lebar kurang dari 30 cm."
+            "\nc. Membersihkan seluruh areal pertanaman padi agar tikus tidak dapat membuat sarang."
+            "\nd. Pemanfaatan musuh alami tikus."
+            "\ne. Pemasangan perangkap tikus pagar plastik pada persemaian dan lahan sawah."
+            "\nf. Gropyokan dan pembongkaran sarang tikus."
+            "\ng. Pengendalian kimiawi menggunakan rodentisida apabila populasi tikus sudah tinggi."
+        </item>
+        <item>
+            "a. Membersihkan gulma dari sawah dan areal sekitarnya."
+            "\nb. Penggunaan varietas unggul tahan wereng."
+            "\nc. Menggunakan perangkap cahaya."
+            "\nd. Penanaman padi dengan sistem jajar legowo."
+            "\ne. Melakukan pemupukan secara berimbang."
+            "\nf. Pengendalian menggunakan musuh alami/predator dengan melakukan pengamatan minimal 1 minggu 1 kali dan gunakan insektisida yang selektif untuk menghindari terbunuhnya musuh alami tersebut."
+        </item>
+        <item>
+            "a. Mengumpulkan telur dan keong mas pada saat pagi atau sore hari di tempat yang tergenang."
+            "\nb. Memasang penghalang plastik pada persemaian keong mas tidak dapat masuk ke dalam persemaian."
+            "\nc. Melakukan penyulaman tanaman padi yang terserang hama keong mas."
+            "\nd. Memasang tongkat/kayu pada areal persawahan tanaman padi untuk memerangkap keong mas yang akan melakukan peneluran."
+            "\ne. Melepaskan bebek untuk mengais rontokan padi serta memakan keong-keong kecil dan telur."
+            "\nf. Membuat perangkap umpan menggunakan dedaunan untuk menarik perhatian keong mas."
+            "\ng. Memasang saringan pada saluran masuk ke persawahan untuk menghindari masuknya keong mas dari saluran irigasi."
+            "\nh. Pengendalian kimia menggunakan Moluskisida dengan baik."
+        </item>
+        <item>
+            "a. Membersihkan gulma di pematang, pertanaman, dan di sekeliling tanaman padi."
+            "\nb. Memasang bangkai binatang. Walang sangit tertarik kapada bau bangkai, setelah berkumpul dapat disemprot dengan insektisida."
+            "\nc. Menggunakan bahan kimia (Decis, Regent, BPMC) bila populasi sudah mencapai ambang ekonomi 10 ekor/20rpn."
+        </item>
+        <item>
+            "a. Melakukan penanaman dan panen serentak untuk membatasi ketersediaan pakan bagi burung."
+            "\nb. Membuat perangkap jaring agar burung dapat menjauh dari pertanaman."
+            "\nc. Menggunakan rendaman jengkol karena aroma jengkol tidak disukai oleh burung."
+            "\nd. Memasang benda-benda mengkilap seperti plastik atau bekas piringan cakram."
+            "\ne. Menggunakan orang-orangan sawah"
+        </item>
+        <item>
+            "a. Pengaturan pola tanam (tanam serentak dan rotasi tanaman)."
+            "\nb. Pengumpulan kelompok telur penggerek batang padi di persemaian dan di pertanaman."
+            "\nc. Penyabitan tanaman serendah mungkin sampai permukaan tanah pada saat panen."
+            "\nd. Menangkap ngengat dengan light trap (untuk luas 50 ha cukup 1 light trap)."
+            "\ne. Penggenangan air setinggi 10 cm agar jerami atau pangkal jerami cepat membusuk sehingga larva atau pupa mati."
+            "\nf. Pemanfaatan musuh alami parasitoid dengan melepas parasitoid telur seperti Trichogramma japonicum dengan dosis 20 pias/ha (1 pias = 2000-2500 telur terparasit)."
+        </item>
+    </string-array>
+
+    <array name="image_hama">
+        <item>@drawable/tikus</item>
+        <item>@drawable/wereng</item>
+        <item>@drawable/keong</item>
+        <item>@drawable/walang</item>
+        <item>@drawable/burung</item>
+        <item>@drawable/penggerek</item>
+    </array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 

@@ -29,7 +29,7 @@ class BudidayaAdapter(val listDataBudidaya: ArrayList<Budidaya>, val context: Co
         private val binding = ItemBudidayaBinding.bind(itemView)
         fun bind(budidaya: Budidaya) {
             binding.titleBudidaya.text = budidaya.nama
-            binding.deskkripsiBudidaya.text = budidaya.deskripsi
+            binding.deskripsiBudidaya.text = budidaya.deskripsi
             Glide.with(context)
                 .load(budidaya.image)
                 .into(binding.gambarBudidaya)
