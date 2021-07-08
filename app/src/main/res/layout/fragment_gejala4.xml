@@ -52,7 +52,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="40dp"
-                    android:backgroundTint="#08A04B"
+                    android:backgroundTint="#8CC323"
                     android:textColor="#FFF"
                     android:text="Ya">
 
@@ -64,7 +64,7 @@
                     android:layout_height="wrap_content"
                     android:layout_toEndOf="@+id/yes"
                     android:layout_marginStart="40dp"
-                    android:backgroundTint="#08A04B"
+                    android:backgroundTint="#8CC323"
                     android:textColor="#FFF"
                     android:text="Tidak">
 
