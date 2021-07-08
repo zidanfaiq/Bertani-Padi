@@ -25,12 +25,10 @@
         <activity android:name=".hama.HamaActivity" />
         <activity android:name=".penyakit.PenyakitActivity" />
         <activity android:name=".budidaya.BudidayaActivity" />
+        <activity android:name=".MainActivity" />
         <activity
             android:name=".SplashScreen"
             android:screenOrientation="portrait">
-        </activity>
-        <activity
-            android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
