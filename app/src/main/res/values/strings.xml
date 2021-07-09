@@ -72,78 +72,108 @@
         "\n- Gabah terdapat bercak-bercak kecil yang bulat."
     </string>
 
-    <string-array name="title_budidaya">
+    <string-array name="nama_budidaya">
         <item>Pemilihan Bibit</item>
         <item>Persemaian</item>
         <item>Pengolahan Lahan</item>
         <item>Penanaman</item>
-        <item>Pemupukan</item>
-        <item>Perawatan dan Pemeliharaan</item>
+        <item>Pemeliharaan</item>
+        <item>Pengendalian OPT</item>
         <item>Pemanenan</item>
+        <item>Pasca Panen</item>
     </string-array>
 
     <string-array name="deskripsi_budidaya">
         <item>
-            "Benih padi yang berkualitas merupakan hal yang penting jika kita ingin meningkatkan hasil budidaya padi. Saat ini di pasaran terdapat banyak varietas benih padi yang dapat Anda cocokkan dengan kondisi lahan serta permintaan pasar. Beberapa ciri dari beras varietas unggulan adalah Tahan terhadap serangan hama dan penyakit, Toleran terhadap kondisi lingkungan, Dapat mengasilkan panen yang berlimpah, dan Saat direndam dengan larutan ZA 20 gr, benih tenggelam alias tidak mengapung."
+            "a. Benih bermutu/bersertifikat.\n"
+            "\nb. Benih memiliki berat jenis tinggi, mempunyai mutu fisiologis (daya berkecambah dan vigor) tinggi, mampu memberikan pertumbuhan cepat dan seragam.\n"
+            "\nc. Benih murni, bernas, bersih, dan sehat.\n"
+            "\nd. Dormansi benih telah terlewati.\n"
+            "\nCara pemilihan benih bernas dengan menggunakan larutan garama.\n"
+            "\na. Benih dimasukkan ke dalam wadah yang berisi air garam 5%, volume air 2 kali volume benih, kemudian diaduk.\n"
+            "\nb. Benih yang terapung, dipisahkan dengan benih yang tenggelam.\n"
+            "\nc. Benih yang tenggelam berarti bernas dan baik untuk persemaiand. Sebelum disemai, benih direndam dalam air tawar selama 24 jam dan diperam satu malam."
         </item>
         <item>
-            "Benih padi yang sudah siap dapat segera di semai, langkah-langkahnya adalah sebagai berikut :\n"
-            "\na. Buatlah bedengan dengan ukuran lebar 1 – 2 m. Luas persemaian untuk lahan 1 hektar adalah sekitar 400 m atau 4% dari luas lahan.\n"
-            "\nb. Tambahkan 2 kg bahan organik semisal kompos, pupuk kandang, sekam, atau abu. Jika Anda berminat untuk mengolah kompos dari bahan sisa pertanian, silahkan pelajaricara membuat pupuk kompos dari jerami padi.\n"
-            "\nc. Benih yang hendak disemai haruslah direndam dahulu sekitar 2 x 24 jam.\n"
-            "\nd. Persemaian dilakukan selama 25 hari sebelum masa tanam, usahakan tempat menyemai benih padi berdekatan dengan lokasi tanam agar pemindahan benih tersebut dilakukan dengan cepat dan benih tetap segar.\n"
-            "\ne. Benih yang disemai tidak harus terbenam seluruhnya, karena justeru akan menyebabkan kecambah terinfeksi patogen dan akhirnya membusuk."
+            "a. Lahan untuk pesemaian aman dari gangguan binatang, mudah diairi dan tidak dekat lampu untuk menghindari serangan hama.\n"
+            "\nb. Media tumbuh pesemaian berupa campuran tanah dengan kompos jerami atau pupuk kandang dan abu dengan perbandingan tanah : kompos : abu 7 : 2 : 1.  Kebutuhan benih 10 kg per ha.\n"
+            "\nc. Pesemaian SRI dilakukan dengan cara kering (tidak digenang) dan dilakukan penyiraman setiap hari. Pesemaian bisa dilakukan di lahan sawah, lahan kering atau pekarangan dengan dilapisi plastik atau menggunakan nampan.\n"
+            "\nd. Saat benih berkecambah, ditambahkan air.\n"
+            "\ne. Pesemaian dipantau setiap 2-3 hari sekali untuk memonitor hama wereng, penggerek batang atau hama lain.\n"
+            "\nf. Apabila terpantau hama di persemaian, dikendalikan menggunakan insektisida nabati-hayati.\n"
+            "\ng. Bibit dalam pesemaian siap ditanam pada umur 5-7 HSS (hari setelah semai)."
         </item>
         <item>
-            "Pengolahan lahan bertujuan untuk mengubah sifat fisik tanah agar lapisan yang semula keras menjadi datar dan melumpur. Dengan begitu gulma akan mati dan membusuk menjadi humus, aerasi tanah menjadi lebih baik, lapisan bawah tanah menjadi jenuh air sehingga dapat menghemat air. Pada pengolahan tanah sawah ini, dilakukan juga perbaikan dan pengaturan pematang sawah serta selokan. Pematang (galengan) sawah diupayakan agar tetap baik untuk mempermudah pengaturan irigasi sehingga tidak boros air dan mempermudah perawatan tanaman. Tahapan pengolahan tanah sawah pada prinsipnya mencakup kegiatan-kegiatan sebagai berikut :\n"
-            "\na. Pembersihan"
-            "\nPematang sawah dibersihkan dari rerumputan, diperbaiki, dan dibuat agak tinggi. Fungsi utama pematang disaat awal untuk menahan air selama pengolahan tanah agar tidak mengalir keluar petakan. Fungsi selanjutnya berkaitan erat dengan pengaturan kebutuhan air selama ada tanaman padi.Saluran atau parit diperbaiki dan dibersihkan dari rerumputan. Kegiatan tersebut bertujuan agar dapat memperlancar arus air serta menekan jumlah biji gulma yang terbawa masuk ke dalam petakan. Sisa jerami dan sisa tanaman pada bidang olah dibersihkan sebelum tanah diolah. Jerami tersebut dapat dibakar atau diangkut ke tempat lain untuk pakan ternak, kompos, atau bahan bakar. Pembersihan sisasisa tanaman dapat dikerjakan dengan tangan dan cangkul\n"
-            "\nb. Pencangkulan"
-            "\nSetelah dilakukan perbaikan pematang dan saluran, tahap berikutnya adalah pencangkulan. Sudutsudut petakan dicangkul untuk memperlancar pekerjaan bajak atau traktor. Pekerjaan tersebut dilaksanakan bersamaan dengan saat pengolahan tanah.\n"
-            "\nc. Pembajakan"
-            "\nPembajakan dan penggaruan merupakan kegiatan yang berkaitan. Kedua kegiatan tersebut bertujuan agar tanah sawah melumpur dan siap ditanami padi. Pengolahan tanah dilakukan dengan menggunakan mesin traktor. Sebelum dibajak, tanah sawah digenangi air agar gembur. Lama penggenangan sawah dipengaruhi oleh kondisi tanah dan persiapan tanam."
-            "\nPembajakan biasanya dilakukan dua kali. Dengan pembajakan ini diharapkan gumpalan-gumpalan tanah terpecah menjadi kecil-kecil. Gumpalan tanah tersebut kemudian dihancurkan dengan garu sehingga menjadi lumpur halus yang rata. Keuntungan tanah yang telah diolah tersebut yaitu air irigasi dapat merata. Pada petakan sawah yang lebar, perlu dibuatkan bedengan-bedengan. Antara bedengan satu dengan bedeng lainnya berupa saluran kecil. Ujung saluran bertemu dengan parit kecil di tepi pematang yang berguna untuk memperlancar air irigasi."
+            "a. Pupuk kompos atau pupuk kandang sebanyak 12 ton/ha ditaburkan merata sebelum bajak singkal atau garu.\n"
+            "\nb. Pengolahan tanah ditujukan agar tanah melumpur dengan baik, kedalaman lumpur minimal 20 cm, tanah bebas gulma, pengairan lancar, struktur tanah baik, dan ketersediaan hara bagi tanaman meningkat.\n"
+            "\nc. Empat tahapan persiapan lahan, adalah sebagai berikut :\n"
+            "\n- Lahan digenangi air setinggi 2-5 cm di atas permukaan selama 2-5 hari sebelum pembajakan.\n"
+            "\n- Pembajakan tanah ke-1 sedalam 15-20 cm menggunakan bajak traktor singkal, lalu tanah diistirahatkan (inkubasi) selama 3-4 hari.\n"
+            "\n- Perbaikan pematang dan pemopokan dilakukan agar tidak terjadi rembesan air. Pojok petakan dan sekitar pematang yang tidak terbajak, dicangkul sedalam 20 cm. Lahan sawah digenangi air selama 2-3 hari sedalam 2-5 cm.\n"
+            "\n- Pembajakan tanah ke-2 dilakukan untuk pelumpuran tanah. Permukaan tanah diratakan menggunakan garu atau papan ditarik tangan. Sisa gulma dibuang atau disingkirkan. Lahan yang telah diolah diistirahatkan 1-2 hari, supaya lumpur stabil."
         </item>
         <item>
-            "Setelah persiapan lahan beres maka bibit pun siap ditanam. Bibit dianjurkan untuk ditanam semuda mungkin, biasanya dipindah saat umur 20 hari. Ciri bibit yang siap dipindah ialah berdaun 5-6 helai, tinggi 22-25 cm, batang bawah besar dan keras, bebas dari hama dan penyakit sehingga pertumbuhannya seragam. Bibit ditanam dengan cara dipindah dari bedengan persemaian ke petakan sawah, dengan cara bibit dicabut dari bedengan persemaian dengan menjaga agar bagian akarnya terbawa semua dan tidak rusak. Setelah itu bibit dikumpulkan dalam ikatan-ikatan lalu ditaruh disawah dengan sebagian akar terbenam ke air.\n"
-            "\nBibit ditanam cukup satu bibit per lubang tanam, dengan posisi tegak dan apabila petani masih belum terbiasa dengan menanam satu bibit, pada tahap awal dapat menanam 2-3 bibit per lubang tanam, dengan kedalaman tanam cukup 2 cm, karena jika kurang dari 2 cm bibit akan gampang hanyut. Pengaturan jarak tanam dilakukan dengan caplak, Jarak tanam padi model tegel biasanya 20 cm x 20 cm atau 25 cm x 25 cm. Model sistem tanam jajar legowo juga sudah banyak diterapkan yaitu legowo 2 : 1 (40 x 20 x 10 cm) adalah cara tanam berselang seling 2 baris dan 1 bari kosong. Jarak antar baris tanaman yang dikosongkan di sebut satu unit."
+            "Kegiatan penanaman meliputi penyediaan bibit, pencaplakan dan tanam bibit. Cara tanam dan jarak tanam SRI adalah jarak tanam longgar/lebar dengan alternatif antara lain: 25 cm x 25 cm atau 30 cm x 30 cm.\n"
+            "\na. Penyediaan Bibit"
+            "\n- Bibit dicabut saat berumur 5-7 HSS."
+            "\n- Mencabut bibit dengan akar penuh dan batang tidak boleh patah."
+            "\n- Tidak dianjurkan menanam bibit yang berasal dari penjual bibit siap tanam apalagi tidak jelas varietasnya.\n"
+            "\nb. Pencaplakan"
+            "\n- Pencaplakan untuk membuat “tanda” jarak tanam secara seragam dan teratur. Ukuran caplak menentukan jarak tanam dan populasi rumpun tanaman per satuan luas."
+            "\n- Jumlah rumpun per meter pada berbagai jarak tanam yang dapat dipilih adalah 16 rumpun/m2 = tegel jarak tanam 25 cm x 25 cm, 11 rumpun/m2 = tegel jarak tanam 30 cm x 30 cm, dan 21 rumpun/m2 = jajar legowo 2:1 jarak tanam (25 cm x 12,5 cm) x 50 cm."
+            "\n- Pemilihan jarak tanam tergantung kesuburan tanah dan varietas.\n"
+            "\nc. Penanaman Bibit"
+            "\n- Saat tanam kondisi air macak-macak"
+            "\n- Penanaman satu bibit per lubang (tanam tunggal, dangkal dan posisi akar membentuk huruf L)."
         </item>
         <item>
-            "Tanah yang dibudidayakan secara terus menerus cenderung kekurangan unsur hara bagi tanaman, oleh karena itu diperlukan penambahan unsur hara yang berasal dari pupuk organik maupun pupuk anorganik. Agar efektif dan efisien penggunaan pupuk disesuaikan dengan kebutuhan tanaman dan ketersediaan hara dalam tanah. Kebutuhan N tanaman dapat diketahui dengan cara mengukur tingkat kehijauan warna daun padi dengan menggunakan Bagan Warna Daun (BWD).\n"
-            "\nCara menentukan waktu aplikasi pupuk N dengan menggunakan BWD dapat dilakukan dengan 2 cara sebagai berikut :\n"
-            "\nCara pertama adalah waktu tetap, yaitu waktu pemupukan di tetapkan lebih dahulu berdasarkan tahap pertumbuhan tanaman, antara lain fase pada saat anakan akif dan pembentukan malai dan saat primordia.\n"
-            "\nCara kedua adalah waktu pemberian pupuk berdasarkan nilai pembacaan BWD yang sebenarnya yaitu penggunaan BWD dimulai ketika tanaman 14 HST, kemudian secara periodik diulangi 7-10 hari sekali sampai diketahui nilai kritis saat pupuk N harus diaplikasikan."
+            "a. Penyulaman"
+            "\n-  Penyulaman tanaman dilakukan bila ada tanaman mati. Bibit yang digunakan untuk menyulam adalah bibit yang diambil dari sisa bibit pesemaian yang ditanam di pinggir pematang."
+            "\n- Penyulaman dilakukan sedini mungkin pada 5-7 HST agar pertumbuhan tanaman seragam.\n"
+            "\nb. Pengairan"
+            "\n- Pintu masuk air atau inlet dibuat pada pematang bagian depan dekat saluran tersier dan pada ujung petakan sawah dibuat “celah pintu” atau outlet pembuangan kelebihan air."
+            "\n- Tinggi celah pintu pembuangan 5 cm dari permukaan tanah/lumpur, dapat bervariasi tergantung fase pertumbuhan tanaman padi."
+            "\n- Sepuluh hari pertama setelah tanam, dilakukan penggenangan sedalam 2-5 cm, selanjutnya dibuat macak- macak, seterusnya secara intermitten, yaitu kondisi basah-kering dengan interval 7-10 hari selama fase vegetatif."
+            "\n- Selanjutnya pada fase generatif, lahan digenangi lagi hingga ketinggian 2-5 cm di atas permukaan."
+            "\n- Lahan dikeringkan pada 10-14 hari sebelum panen.\n"
+            "\nc. Penyiangan"
+            "\n- Penyiangan dilakukan sebanyak empat kali dengan selang waktu 10 hari. Setiap selesai penyiangan dilakukan penyemprotan suplement Pupuk Organik Cair (POC)/ Mikro Organisme Lokal (MOL)."
+            "\n- Penyiangan gulma secara manual dan mekanis menggunakan landak/gasrok atau “hand rotary”. Penyiangan dilakukan pada kondisi air macak-macak.\n"
+            "\nd. Pemupukan"
+            "\n- Pupuk kompos atau bahan organik yang sudah lapuk diberikan pada saat pengolahan tanah atau menjelang tanam."
+            "\n- MOL yang terbuat dari bahan-bahan alami disemprotkan secara periodik 10 hari sekali dimulai dari 10 HST dengan konsentrasi 1-2 l MOL/14 l air. MOL ditujukan sebagai tambahan nutrisi bagi tumbuhan. MOL dapat dibuat antara lain dari bahan limbah sayur-sayuran, buah-buahan, keong mas, buah maja, bonggol pisang, nasi, dan rebung bambu. Sebagai bahan campurannya ditambahkan air bekas cucian beras, gula/molase/air kelapa dan urin sapi/kelinci yang difermentasi selama 10 – 15 hari."
         </item>
         <item>
-            "Perawatan dan pemeliharaan tanaman sangat penting dalam pelaksanaan budidaya padi sawah. Hal-hal yang sering dilakukan oleh para petani adalah penyiangan (pengendalian gulma). Gulma merupakan tumbuhan pengganggu yang hidup bersama tanaman yang dibudidayakan dan pada umumnya sangat merugikan tanaman padi. Disamping dapat menjadi tanaman inang beberapa hama dan penyebab penyakit, gulma merupakan pesaing untuk unsur hara air, tempat dan sinar matahari. Apalagi gulma memiliki sistem perakaran yang sama dengan padi sehingga unsur makanan yang diperlukan oleh gulma dan padi berasal dari lapisan tanah yang sama. Penyiangan gulma dilakukan 2 tahap, dimana tahap pertama penyiangan dilakukan pada saat umur tanaman kurang lebih 15 hari dan tahap kedua pada saat umur tanaman berumur 30-35 hari. Penyiangan yang dilakukan dengan cara mencabut gulma dan dimatikan dengan atau tanpa menggunakan alat, biasanya penyiangan ini dilakukan bersamaan dengan kegiatan penyulaman."
+            "- Tindakan pencegahan terhadap hama dan penyakit dilakukan sesuai kaidah Pengelolaan Hama Terpadu (PHT), melalui pendayagunaan fungsi musuh alami dan pemantaua berkala.\n"
+            "\n- Pengendalian hama dimulai saat pengolahan tanah, pesemaian, hingga fase generatif tanaman, berdasarkan pada hasil pemantauan menggunakan pestisida nabati- hayati.\n"
+            "\n- Hama dan penyakit dikendalikan dengan menggunakan varietas tahan, menanam secara serentak serta mempergunakan pestisida secara selektif. Penggunaan pestisida kimia hanya dilakukan sebagai langkah terakhir bila ternyata serangan hama dan penyakit belum dapat diatasi."
         </item>
         <item>
-            "Tujuan pemanenan padi adalah untuk mendapatkan gabah dari lapangan pada tingkat kematangan optimal, mencegah kerusakan dan kehilangan hasil seminimal mungkin. Pemanenan padi tidak akan menguntungkan dan memuaskan jika prosesnya dilakukan dengan cara yang kurang benar dan pada umur panen yang tidak tepat. Cara panen yang tidak baik akan menurunkan kehilangan hasil secara kuantitatif, sedang saat panen yang tepat akan menentukan kualitas gabah dan beras. Panen harus dilakukan bila bulir padi sudah cukup dianggap masak. Panen yang kurang tepat dapat menurunkan kualitas dari gabah maupun beras.\n"
-            "\na. Ciri-ciri Padi Siap Panen"
-            "\n- Daun bendera telah mengering dan 95% gabah sudah menguning."
-            "\n- Umur optimal malai 30 sampai 35 hari terhitung sejak hari sesudah berbunga (HSB). Tergantung varietas yang dibudidayakan."
-            "\n- Kadar air gabah berkisar antara 21 sampai 26."
-            "\n- Kerontokan gabah sekitar 16 sampai 30 % (Cara mengukurnya dengan meremas malai dengan tangan).\n"
-            "\nb. Cara Panen Padi"
-            "\nDalam melakukan pemanenan padi dapat dilakukan dengan berbagai cara, tergantung dari alat yang digunakan, varietas padi dan cara merontokkan gabah yang akan dilakukan. Berikut ini beberapa cara dalam memanen padi :"
-            "\n- Ani-ani umumnya digunakan petani untuk memanen padi lokal yang tahan rontok dan tanaman padi berpostur tinggi dengan cara memotong pada tangkainya."
-            "\n- Cara panen padi varietas unggul baru dengan sabit dapat dilakukan dengan cara potong atas, potong tengah atau potong bawah tergantung cara perontokannya."
-            "\n- Cara panen dengan potong bawah, umumnya dilakukan bila perontokannya dengan cara dibanting/digebot atau menggunakan pedal thresher."
-            "\n- Panen padi dengan cara potong atas atau potong tengah bila dilakukan perontokannya menggunakan mesin perontok."
+            "Panen tepat waktu dengan benar menjamin perolehan hasil panen secara kuantitas maupun kualitas, yang akan menentukan tingkat pendapatan usahatani padi.\n"
+            "\n- Panen dilakukan pada saat matang fisiologis yaitu bilamana 95% bulir menguning.\n"
+            "\n- Padi yang sudah dipotong segera dirontok dapat menggunakan alat perontok thresher menggunakan alas terpal sebagai penampung gabah, atau combine harvester.\n"
+            "\n- Gabah yang telah dirontok dibersihkan dari kotoran dan jerami, menggunakan blower atau penampi jika menggunakan thresher.\n"
+            "\n- Gabah dijemur hingga mencapai kadar air sekitar 16% (gabah kering simpan/GKS)."
+        </item>
+        <item>
+            "- Gabah dikeringkan lagi untuk mencapai tingkat kadar air gabah kering giling (GKG) (14%).\n"
+            "\n- Gabah dihamparkan merata dengan ketebalan sekitar 5 cm pada lantai jemur atau alas terpal/ plastik tebal, dan gabah dibalik setiap 2 jam.\n"
+            "\n- Gabah kering dimasukkan ke dalam karung plastik dan diangkut ke gudang untuk disimpan atau ke pabrik penggilingan."
         </item>
     </string-array>
 
     <array name="image_budidaya">
         <item>@drawable/bibit</item>
         <item>@drawable/persemaian</item>
-        <item>@drawable/bajak</item>
-        <item>@drawable/nanam</item>
+        <item>@drawable/pembajakan</item>
+        <item>@drawable/penanaman</item>
         <item>@drawable/pemupukan</item>
-        <item>@drawable/penyiangan</item>
-        <item>@drawable/panen</item>
+        <item>@drawable/pengendalian</item>
+        <item>@drawable/pemanenan</item>
+        <item>@drawable/pasca_panen</item>
     </array>
 
-    <string-array name="title_penyakit">
+    <string-array name="nama_penyakit">
         <item>Hawar Daun Bakteri</item>
         <item>Tungro</item>
         <item>Kerdil Rumput</item>
@@ -246,7 +276,7 @@
         <item>@drawable/blast</item>
     </array>
 
-    <string-array name="title_hama">
+    <string-array name="nama_hama">
         <item>Tikus</item>
         <item>Wereng</item>
         <item>Keong Mas</item>
