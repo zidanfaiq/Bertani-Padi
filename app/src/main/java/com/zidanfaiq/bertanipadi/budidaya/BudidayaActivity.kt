@@ -35,13 +35,13 @@ class BudidayaActivity : AppCompatActivity() {
     }
 
     fun arrayList(): ArrayList<Budidaya> {
-        val title_budidaya = resources.getStringArray(R.array.title_budidaya)
+        val nama_budidaya = resources.getStringArray(R.array.nama_budidaya)
         val deskripsi_budidaya = resources.getStringArray(R.array.deskripsi_budidaya)
         val image_budidaya = resources.obtainTypedArray(R.array.image_budidaya)
         val listBudidaya = ArrayList<Budidaya>()
-        for (position in title_budidaya.indices) {
+        for (position in nama_budidaya.indices) {
             val dataBudidaya = Budidaya(
-                title_budidaya[position],
+                nama_budidaya[position],
                 deskripsi_budidaya[position],
                 image_budidaya.getResourceId(position, 0)
             )

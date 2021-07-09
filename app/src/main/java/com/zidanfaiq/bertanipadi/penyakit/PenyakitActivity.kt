@@ -35,15 +35,15 @@ class PenyakitActivity : AppCompatActivity() {
     }
 
     fun arrayList(): ArrayList<Penyakit> {
-        val title_penyakit = resources.getStringArray(R.array.title_penyakit)
+        val nama_penyakit = resources.getStringArray(R.array.nama_penyakit)
         val deskripsi_penyakit = resources.getStringArray(R.array.deskripsi_penyakit)
         val gejala_penyakit = resources.getStringArray(R.array.gejala_penyakit)
         val pengendalian_penyakit = resources.getStringArray(R.array.pengendalian_penyakit)
         val image_penyakit = resources.obtainTypedArray(R.array.image_penyakit)
         val listPenyakit = ArrayList<Penyakit>()
-        for (position in title_penyakit.indices) {
+        for (position in nama_penyakit.indices) {
             val dataPenyakit = Penyakit(
-                title_penyakit[position],
+                nama_penyakit[position],
                 deskripsi_penyakit[position],
                 gejala_penyakit[position],
                 pengendalian_penyakit[position],

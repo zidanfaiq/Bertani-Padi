@@ -35,15 +35,15 @@ class HamaActivity : AppCompatActivity() {
     }
 
     fun arrayList(): ArrayList<Hama> {
-        val title_hama = resources.getStringArray(R.array.title_hama)
+        val nama_hama = resources.getStringArray(R.array.nama_hama)
         val deskripsi_hama = resources.getStringArray(R.array.deskripsi_hama)
         val gejala_hama = resources.getStringArray(R.array.gejala_hama)
         val pengendalian_hama = resources.getStringArray(R.array.pengendalian_hama)
         val image_hama = resources.obtainTypedArray(R.array.image_hama)
         val listHama = ArrayList<Hama>()
-        for (position in title_hama.indices) {
+        for (position in nama_hama.indices) {
             val dataHama = Hama(
-                title_hama[position],
+                nama_hama[position],
                 deskripsi_hama[position],
                 gejala_hama[position],
                 pengendalian_hama[position],
