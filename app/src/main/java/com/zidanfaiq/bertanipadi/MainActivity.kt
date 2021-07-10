@@ -4,8 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.view.WindowManager
-import com.synnapps.carouselview.ImageListener
+import androidx.appcompat.app.AlertDialog
 import com.zidanfaiq.bertanipadi.budidaya.BudidayaActivity
 import com.zidanfaiq.bertanipadi.databinding.ActivityMainBinding
 import com.zidanfaiq.bertanipadi.hama.HamaActivity
@@ -48,5 +47,21 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 startActivity(intent)
             }
         }
+    }
+
+    override fun onBackPressed() {
+        val alertExit : AlertDialog = AlertDialog.Builder(this).create()
+        alertExit.setMessage("Apakah anda yakin akan keluar dari aplikasi?")
+
+        alertExit.setButton(AlertDialog.BUTTON_POSITIVE, "Ya") {
+            dialog, which -> finish()
+            dialog.dismiss()
+        }
+
+        alertExit.setButton(AlertDialog.BUTTON_NEGATIVE, "Tidak") {
+            dialog, which ->
+            dialog.dismiss()
+        }
+        alertExit.show()
     }
 }
