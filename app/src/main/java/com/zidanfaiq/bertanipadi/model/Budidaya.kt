@@ -1,4 +1,4 @@
-package com.zidanfaiq.bertanipadi.data
+package com.zidanfaiq.bertanipadi.model
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

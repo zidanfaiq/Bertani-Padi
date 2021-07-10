@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.zidanfaiq.bertanipadi.R
-import com.zidanfaiq.bertanipadi.data.Penyakit
+import com.zidanfaiq.bertanipadi.model.Penyakit
 import com.zidanfaiq.bertanipadi.databinding.ItemPenyakitBinding
 import com.zidanfaiq.bertanipadi.penyakit.DetailPenyakitActivity
 

@@ -9,7 +9,7 @@ import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.GridLayoutManager
 import com.zidanfaiq.bertanipadi.R
 import com.zidanfaiq.bertanipadi.adapter.BudidayaAdapter
-import com.zidanfaiq.bertanipadi.data.Budidaya
+import com.zidanfaiq.bertanipadi.model.Budidaya
 import com.zidanfaiq.bertanipadi.databinding.ActivityBudidayaBinding
 import java.util.*
 import kotlin.collections.ArrayList

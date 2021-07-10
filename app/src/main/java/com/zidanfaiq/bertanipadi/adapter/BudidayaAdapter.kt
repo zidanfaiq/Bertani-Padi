@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.zidanfaiq.bertanipadi.R
 import com.zidanfaiq.bertanipadi.budidaya.DetailBudidayaActivity
-import com.zidanfaiq.bertanipadi.data.Budidaya
+import com.zidanfaiq.bertanipadi.model.Budidaya
 import com.zidanfaiq.bertanipadi.databinding.ItemBudidayaBinding
 
 class BudidayaAdapter(val listDataBudidaya: ArrayList<Budidaya>, val context: Context) : RecyclerView.Adapter<BudidayaAdapter.BudidayaViewHolder>() {

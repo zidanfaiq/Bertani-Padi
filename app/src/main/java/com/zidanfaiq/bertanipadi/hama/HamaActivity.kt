@@ -9,7 +9,7 @@ import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.GridLayoutManager
 import com.zidanfaiq.bertanipadi.R
 import com.zidanfaiq.bertanipadi.adapter.HamaAdapter
-import com.zidanfaiq.bertanipadi.data.Hama
+import com.zidanfaiq.bertanipadi.model.Hama
 import com.zidanfaiq.bertanipadi.databinding.ActivityHamaBinding
 import java.util.*
 import kotlin.collections.ArrayList

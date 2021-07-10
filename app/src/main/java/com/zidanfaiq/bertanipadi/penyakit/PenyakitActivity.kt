@@ -9,7 +9,7 @@ import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.GridLayoutManager
 import com.zidanfaiq.bertanipadi.R
 import com.zidanfaiq.bertanipadi.adapter.PenyakitAdapter
-import com.zidanfaiq.bertanipadi.data.Penyakit
+import com.zidanfaiq.bertanipadi.model.Penyakit
 import com.zidanfaiq.bertanipadi.databinding.ActivityPenyakitBinding
 import java.util.*
 import kotlin.collections.ArrayList

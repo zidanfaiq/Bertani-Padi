@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.zidanfaiq.bertanipadi.R
-import com.zidanfaiq.bertanipadi.data.Hama
+import com.zidanfaiq.bertanipadi.model.Hama
 import com.zidanfaiq.bertanipadi.databinding.ItemHamaBinding
 import com.zidanfaiq.bertanipadi.hama.DetailHamaActivity
 

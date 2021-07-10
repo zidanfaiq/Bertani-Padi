@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.os.Parcelable
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
-import com.zidanfaiq.bertanipadi.data.Penyakit
+import com.zidanfaiq.bertanipadi.model.Penyakit
 import com.zidanfaiq.bertanipadi.databinding.ActivityDetailPenyakitBinding
 import kotlinx.android.synthetic.main.content_scrolling_penyakit.*
 

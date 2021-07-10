@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.os.Parcelable
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
-import com.zidanfaiq.bertanipadi.data.Hama
+import com.zidanfaiq.bertanipadi.model.Hama
 import com.zidanfaiq.bertanipadi.databinding.ActivityDetailHamaBinding
 import kotlinx.android.synthetic.main.content_scrolling_hama.*
 
