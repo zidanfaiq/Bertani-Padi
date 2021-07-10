@@ -37,7 +37,7 @@ class Gejala9Fragment : Fragment(), View.OnClickListener {
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
         dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
         dialog.setContentView(R.layout.alert_diagnosa)
-        dialog.nama_hama.text = resources.getString(R.string.kerdil_hampa)
+        dialog.hasil_diagnosa.text = resources.getString(R.string.kerdil_hampa)
 
         val close = dialog.findViewById<ImageView>(R.id.close)
         close.setOnClickListener {

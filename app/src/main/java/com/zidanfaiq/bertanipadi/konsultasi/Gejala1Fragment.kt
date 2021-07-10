@@ -1,10 +1,8 @@
 package com.zidanfaiq.bertanipadi.konsultasi
 
 import android.app.Dialog
-import android.content.Intent
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
-import android.media.Image
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -38,7 +36,7 @@ class Gejala1Fragment : Fragment(), View.OnClickListener {
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
         dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
         dialog.setContentView(R.layout.alert_diagnosa)
-        dialog.nama_hama.text = resources.getString(R.string.tikus)
+        dialog.hasil_diagnosa.text = resources.getString(R.string.tikus)
 
         val close = dialog.findViewById<ImageView>(R.id.close)
         close.setOnClickListener {
